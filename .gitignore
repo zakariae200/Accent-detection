@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+.env
+
+# Virtual environment
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio/video cache
+downloads/
+audio/
+*.mp4
+*.mp3
+*.wav
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml

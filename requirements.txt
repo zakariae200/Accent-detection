@@ -1,0 +1,22 @@
+# Core dependencies
+moviepy
+yt-dlp
+requests
+
+# Audio processing
+torch
+torchaudio
+librosa
+soundfile
+noisereduce
+
+
+# Hugging Face
+transformers
+datasets
+
+# Utilities
+tqdm
+python-dotenv
+streamlit
+openai
